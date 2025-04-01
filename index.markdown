@@ -1,3 +1,8 @@
+# Parsons Practice
+
+## Parsons 1 (Find the largest salary)
+Re-arrange the blocks below so they find the largest salary.
+
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
